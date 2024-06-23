@@ -134,6 +134,3 @@ include vendor/arrow/config/props.mk
 
 # Sounds
 include vendor/arrow/config/sounds.mk
-
-# Private
--include vendor/arrow-priv/config.mk
